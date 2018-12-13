@@ -4,7 +4,7 @@ var Radius = Diameter/2;
 var slideyboi
 
 function setup() {
-	createCanvas(350, 800);
+	createCanvas(400,600);
 	Cx = windowWidth/2;
 	Cy = windowHeight/2;
 
